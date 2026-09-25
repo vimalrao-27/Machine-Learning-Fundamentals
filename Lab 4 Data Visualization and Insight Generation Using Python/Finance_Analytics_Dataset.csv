@@ -1,0 +1,501 @@
+Category,PaymentMode,TransactionType,Amount,CustomerSegment
+Utilities,Credit Card,Debit,288.82,Premium
+Entertainment,UPI,Debit,248.77,Regular
+Entertainment,Cash,Debit,610.75,Regular
+Shopping,Debit Card,Debit,1668.65,Premium
+Dining,Credit Card,Debit,463.52,Budget
+Entertainment,Cash,Debit,554.2,Budget
+Dining,Cash,Credit,2961.58,Premium
+Utilities,Cash,Debit,374.43,Budget
+Groceries,Cash,Debit,2982.07,Premium
+Travel,Cash,Debit,46.55,Budget
+Entertainment,UPI,Credit,361.47,Budget
+Entertainment,Credit Card,Debit,422.26,Premium
+Healthcare,Net Banking,Credit,1703.78,Budget
+Dining,Debit Card,Credit,421.46,Budget
+Groceries,UPI,Debit,1245.85,Budget
+Shopping,Net Banking,Debit,112.12,Budget
+Dining,Cash,Debit,3660.08,Regular
+Healthcare,Debit Card,Debit,2592.58,Premium
+Shopping,Debit Card,Credit,789.61,Budget
+Utilities,Net Banking,Debit,298.15,Regular
+Travel,Credit Card,Credit,533.91,Regular
+Travel,UPI,Debit,1098.13,Regular
+Shopping,Net Banking,Debit,553.91,Regular
+Entertainment,UPI,Debit,4767.23,Premium
+Utilities,Debit Card,Debit,1407.06,Regular
+Entertainment,Cash,Debit,1008.98,Premium
+Utilities,Debit Card,Debit,2371.19,Regular
+Entertainment,Net Banking,Debit,588.84,Budget
+Groceries,UPI,Credit,2295.64,Regular
+Healthcare,Credit Card,Debit,853.53,Regular
+Groceries,UPI,Credit,1973.93,Regular
+Healthcare,Credit Card,Debit,571.61,Budget
+Groceries,Cash,Debit,2649.11,Regular
+Shopping,Net Banking,Debit,192.16,Regular
+Utilities,Debit Card,Debit,737.53,Premium
+Travel,UPI,Debit,2123.9,Premium
+Entertainment,Net Banking,Debit,731.26,Regular
+Travel,Debit Card,Credit,556.9,Budget
+Travel,Debit Card,Debit,2140.49,Regular
+Travel,UPI,Debit,1640.91,Premium
+Utilities,Debit Card,Debit,1020.77,Budget
+Travel,Net Banking,Debit,598.46,Regular
+Shopping,Credit Card,Debit,85.97,Budget
+Travel,Cash,Debit,4113.97,Premium
+Utilities,Debit Card,Debit,4226.94,Regular
+Groceries,UPI,Debit,942.45,Budget
+Utilities,Credit Card,Credit,1232.41,Regular
+Groceries,Debit Card,Debit,1447.04,Regular
+Entertainment,Net Banking,Credit,1993.47,Budget
+Healthcare,Debit Card,Debit,2853.06,Premium
+Groceries,Credit Card,Debit,4257.16,Premium
+Travel,UPI,Credit,2291.17,Regular
+Shopping,Credit Card,Debit,2806.75,Regular
+Healthcare,Debit Card,Credit,2180.12,Premium
+Entertainment,UPI,Debit,843.61,Regular
+Entertainment,UPI,Debit,1194.0,Budget
+Utilities,Net Banking,Credit,2669.94,Regular
+Travel,Net Banking,Debit,3027.87,Regular
+Healthcare,Cash,Debit,2161.98,Budget
+Entertainment,Credit Card,Debit,2503.84,Regular
+Entertainment,Debit Card,Debit,482.17,Budget
+Entertainment,Credit Card,Credit,1569.33,Regular
+Healthcare,Credit Card,Debit,879.15,Budget
+Groceries,Debit Card,Debit,1344.71,Regular
+Utilities,UPI,Credit,3587.26,Premium
+Groceries,Cash,Debit,673.89,Budget
+Entertainment,Net Banking,Credit,1124.49,Regular
+Healthcare,Net Banking,Debit,7919.64,Premium
+Groceries,Net Banking,Debit,2272.18,Premium
+Utilities,Credit Card,Credit,2792.68,Regular
+Healthcare,Cash,Debit,5230.07,Premium
+Dining,Cash,Debit,1602.34,Regular
+Groceries,Credit Card,Debit,2089.2,Premium
+Travel,UPI,Credit,621.55,Regular
+Healthcare,Cash,Credit,261.8,Regular
+Utilities,UPI,Debit,2097.3,Regular
+Travel,Cash,Debit,1800.32,Regular
+Travel,Cash,Credit,4181.79,Premium
+Dining,UPI,Debit,890.87,Regular
+Entertainment,Credit Card,Debit,4698.39,Regular
+Shopping,Debit Card,Debit,1918.99,Regular
+Healthcare,Debit Card,Debit,2204.36,Premium
+Groceries,UPI,Credit,236.13,Premium
+Shopping,UPI,Credit,1760.56,Premium
+Shopping,UPI,Credit,2401.98,Regular
+Shopping,Credit Card,Debit,3540.39,Regular
+Utilities,Debit Card,Debit,828.88,Budget
+Travel,Net Banking,Debit,3934.96,Regular
+Shopping,Credit Card,Debit,578.16,Regular
+Entertainment,Debit Card,Debit,1840.73,Regular
+Shopping,Cash,Debit,3382.57,Premium
+Healthcare,Credit Card,Debit,2109.48,Regular
+Dining,UPI,Debit,1531.31,Regular
+Utilities,Debit Card,Credit,1767.15,Regular
+Travel,Credit Card,Debit,1017.18,Premium
+Groceries,UPI,Debit,1987.33,Budget
+Healthcare,UPI,Credit,1562.26,Budget
+Utilities,Credit Card,Credit,3088.76,Premium
+Groceries,Credit Card,Credit,2646.52,Regular
+Shopping,Credit Card,Debit,2030.63,Budget
+Dining,Net Banking,Credit,2087.46,Regular
+Dining,Cash,Debit,3021.76,Budget
+Groceries,Credit Card,Debit,2213.6,Regular
+Shopping,Debit Card,Debit,390.82,Budget
+Dining,Debit Card,Debit,991.27,Budget
+Shopping,Debit Card,Debit,4893.92,Premium
+Shopping,Debit Card,Debit,3386.6,Regular
+Entertainment,Credit Card,Credit,1556.12,Regular
+Entertainment,UPI,Debit,1088.3,Premium
+Healthcare,Debit Card,Debit,1140.51,Regular
+Travel,Debit Card,Debit,226.22,Budget
+Travel,Debit Card,Debit,4280.1,Premium
+Utilities,Cash,Debit,967.88,Regular
+Dining,Net Banking,Debit,448.7,Budget
+Shopping,UPI,Debit,2543.53,Regular
+Groceries,Debit Card,Credit,3882.06,Regular
+Travel,Cash,Credit,446.97,Budget
+Healthcare,Cash,Debit,1563.87,Regular
+Entertainment,Credit Card,Debit,2123.0,Premium
+Entertainment,Cash,Credit,6287.81,Premium
+Healthcare,Net Banking,Credit,773.99,Budget
+Groceries,Credit Card,Debit,552.11,Regular
+Utilities,Net Banking,Credit,1338.84,Regular
+Travel,Credit Card,Credit,5417.14,Premium
+Shopping,Credit Card,Credit,1124.35,Regular
+Groceries,Credit Card,Debit,489.4,Budget
+Travel,UPI,Debit,1244.59,Regular
+Entertainment,Net Banking,Debit,341.49,Budget
+Shopping,UPI,Debit,1178.22,Regular
+Dining,Credit Card,Debit,870.09,Regular
+Travel,Credit Card,Debit,3387.3,Budget
+Utilities,Cash,Debit,176.85,Regular
+Entertainment,Cash,Debit,648.73,Regular
+Healthcare,Net Banking,Credit,489.08,Budget
+Dining,Credit Card,Debit,572.85,Regular
+Utilities,Cash,Debit,1853.95,Regular
+Utilities,Net Banking,Credit,439.87,Budget
+Shopping,UPI,Credit,603.21,Premium
+Shopping,Credit Card,Credit,1459.83,Regular
+Travel,Cash,Credit,1930.03,Premium
+Utilities,UPI,Credit,764.28,Regular
+Dining,Credit Card,Debit,6181.63,Premium
+Dining,Debit Card,Debit,1899.84,Regular
+Dining,UPI,Debit,3145.59,Premium
+Groceries,Credit Card,Debit,1930.69,Regular
+Travel,Debit Card,Credit,1859.33,Regular
+Dining,UPI,Debit,1117.31,Regular
+Healthcare,Cash,Debit,740.04,Regular
+Travel,Credit Card,Debit,1484.51,Regular
+Utilities,UPI,Debit,1100.71,Regular
+Travel,Cash,Debit,173.66,Regular
+Entertainment,Cash,Debit,315.75,Budget
+Groceries,Cash,Credit,990.17,Regular
+Dining,Credit Card,Debit,4647.25,Premium
+Healthcare,Cash,Credit,893.68,Budget
+Shopping,Cash,Debit,626.52,Regular
+Dining,Debit Card,Debit,869.45,Premium
+Groceries,UPI,Debit,2971.86,Regular
+Healthcare,UPI,Credit,2087.09,Premium
+Travel,UPI,Debit,42.75,Premium
+Utilities,Debit Card,Credit,1219.65,Regular
+Healthcare,Cash,Debit,3967.65,Premium
+Shopping,Cash,Debit,281.04,Budget
+Shopping,Debit Card,Credit,842.6,Budget
+Entertainment,Cash,Debit,1507.65,Regular
+Healthcare,Debit Card,Debit,496.81,Regular
+Travel,Net Banking,Credit,3158.54,Regular
+Travel,UPI,Debit,916.57,Budget
+Shopping,UPI,Debit,985.94,Regular
+Dining,Credit Card,Debit,2098.4,Premium
+Entertainment,Net Banking,Debit,407.38,Regular
+Utilities,Debit Card,Credit,390.06,Regular
+Utilities,Debit Card,Credit,1639.02,Premium
+Healthcare,Credit Card,Debit,959.1,Regular
+Shopping,Cash,Credit,1988.85,Premium
+Utilities,Credit Card,Debit,2009.84,Budget
+Shopping,Net Banking,Debit,2120.2,Regular
+Shopping,Cash,Debit,380.74,Premium
+Utilities,Credit Card,Credit,5267.14,Premium
+Utilities,UPI,Debit,1628.19,Premium
+Healthcare,UPI,Debit,2267.27,Regular
+Travel,Debit Card,Debit,1740.07,Premium
+Entertainment,Net Banking,Credit,1454.44,Regular
+Shopping,UPI,Debit,791.11,Premium
+Dining,UPI,Debit,1705.9,Regular
+Travel,UPI,Credit,2451.88,Regular
+Shopping,Cash,Debit,263.53,Regular
+Healthcare,Net Banking,Debit,2478.56,Regular
+Utilities,Debit Card,Debit,1327.15,Premium
+Utilities,Cash,Debit,7355.09,Premium
+Entertainment,Cash,Debit,4134.63,Premium
+Dining,Cash,Credit,1213.23,Budget
+Utilities,Net Banking,Debit,702.75,Budget
+Utilities,Debit Card,Debit,3795.25,Budget
+Dining,Net Banking,Credit,909.4,Regular
+Utilities,Debit Card,Debit,538.1,Regular
+Travel,Debit Card,Debit,760.49,Regular
+Travel,UPI,Credit,1659.05,Budget
+Entertainment,Cash,Debit,859.98,Budget
+Groceries,UPI,Credit,765.53,Budget
+Shopping,Debit Card,Credit,552.54,Budget
+Groceries,UPI,Debit,1224.35,Regular
+Utilities,Debit Card,Debit,520.82,Budget
+Dining,Net Banking,Debit,1295.94,Budget
+Groceries,Debit Card,Debit,1084.66,Regular
+Dining,UPI,Debit,463.8,Budget
+Shopping,Debit Card,Debit,4692.03,Premium
+Dining,Debit Card,Credit,332.76,Budget
+Utilities,Cash,Credit,869.27,Budget
+Groceries,Debit Card,Credit,309.83,Premium
+Healthcare,Credit Card,Debit,357.29,Regular
+Utilities,Debit Card,Debit,1784.26,Premium
+Shopping,UPI,Debit,512.71,Budget
+Entertainment,Credit Card,Debit,512.04,Budget
+Entertainment,Debit Card,Credit,2311.85,Regular
+Shopping,Credit Card,Debit,1444.5,Budget
+Healthcare,UPI,Debit,2999.69,Premium
+Healthcare,Net Banking,Credit,526.71,Regular
+Shopping,Cash,Debit,1216.82,Regular
+Entertainment,Debit Card,Debit,8049.93,Premium
+Healthcare,Cash,Debit,5923.63,Regular
+Dining,Debit Card,Debit,2624.27,Regular
+Entertainment,Net Banking,Credit,546.71,Regular
+Groceries,UPI,Debit,1225.33,Regular
+Healthcare,Net Banking,Credit,951.62,Budget
+Entertainment,Net Banking,Credit,1412.73,Regular
+Shopping,UPI,Credit,1689.56,Budget
+Groceries,Debit Card,Debit,2240.96,Regular
+Entertainment,UPI,Debit,518.93,Regular
+Entertainment,Cash,Credit,789.44,Regular
+Entertainment,Cash,Debit,2616.67,Regular
+Dining,Cash,Debit,3424.43,Regular
+Healthcare,Credit Card,Credit,1600.84,Regular
+Healthcare,UPI,Debit,6681.47,Premium
+Shopping,Credit Card,Credit,1467.93,Regular
+Entertainment,Net Banking,Credit,609.32,Regular
+Healthcare,Cash,Credit,2099.58,Regular
+Travel,Credit Card,Debit,4588.02,Budget
+Travel,Net Banking,Credit,410.69,Regular
+Dining,Cash,Debit,2171.14,Budget
+Shopping,Cash,Credit,1209.58,Budget
+Healthcare,Debit Card,Credit,449.32,Budget
+Dining,Credit Card,Credit,106.56,Budget
+Dining,Cash,Debit,178.96,Premium
+Shopping,Cash,Debit,851.92,Regular
+Entertainment,UPI,Debit,3214.94,Premium
+Utilities,Cash,Debit,1491.52,Budget
+Dining,Credit Card,Debit,2892.69,Regular
+Groceries,Net Banking,Debit,1671.95,Regular
+Utilities,Credit Card,Debit,891.03,Budget
+Shopping,Cash,Credit,1833.51,Premium
+Healthcare,Net Banking,Credit,1817.9,Regular
+Travel,Cash,Debit,759.0,Regular
+Utilities,UPI,Credit,779.8,Premium
+Travel,Credit Card,Debit,1416.19,Regular
+Dining,Credit Card,Debit,1412.92,Budget
+Travel,Debit Card,Debit,619.88,Premium
+Groceries,Net Banking,Credit,851.99,Regular
+Travel,Credit Card,Credit,1376.32,Regular
+Utilities,Cash,Credit,1354.14,Regular
+Dining,Debit Card,Credit,3559.72,Premium
+Healthcare,UPI,Credit,2632.85,Budget
+Healthcare,Debit Card,Debit,60.51,Budget
+Dining,UPI,Debit,8133.95,Premium
+Utilities,UPI,Debit,4259.18,Regular
+Travel,Credit Card,Credit,2514.69,Regular
+Entertainment,UPI,Debit,1578.65,Regular
+Healthcare,Net Banking,Debit,772.35,Regular
+Shopping,Cash,Credit,4487.97,Premium
+Shopping,Debit Card,Debit,2952.28,Premium
+Utilities,Cash,Credit,622.01,Budget
+Utilities,Cash,Debit,2448.32,Regular
+Shopping,Cash,Credit,1649.4,Budget
+Travel,Debit Card,Credit,3406.46,Regular
+Dining,Cash,Debit,419.14,Budget
+Travel,UPI,Credit,5603.93,Premium
+Travel,Credit Card,Debit,1894.83,Premium
+Dining,Debit Card,Debit,949.19,Budget
+Shopping,Net Banking,Debit,1091.39,Budget
+Utilities,Credit Card,Credit,2942.22,Regular
+Shopping,UPI,Debit,2274.77,Regular
+Entertainment,Net Banking,Debit,1022.35,Regular
+Utilities,Credit Card,Credit,121.91,Regular
+Healthcare,UPI,Debit,3529.21,Premium
+Healthcare,Debit Card,Debit,919.77,Budget
+Healthcare,UPI,Debit,405.2,Regular
+Utilities,Debit Card,Debit,1673.12,Regular
+Shopping,Cash,Credit,2453.05,Premium
+Healthcare,Credit Card,Debit,6091.0,Premium
+Healthcare,Cash,Debit,4724.17,Regular
+Groceries,Net Banking,Credit,2701.88,Regular
+Shopping,Cash,Debit,1301.83,Regular
+Healthcare,Cash,Credit,2628.34,Premium
+Shopping,Credit Card,Debit,405.78,Budget
+Entertainment,Cash,Credit,797.27,Regular
+Shopping,UPI,Credit,745.67,Budget
+Groceries,Cash,Credit,2054.39,Premium
+Travel,Cash,Debit,381.28,Regular
+Dining,UPI,Debit,3407.75,Regular
+Travel,Debit Card,Credit,3733.69,Regular
+Dining,Credit Card,Debit,3333.82,Regular
+Entertainment,Credit Card,Debit,6874.7,Premium
+Dining,Debit Card,Debit,5638.87,Regular
+Dining,Cash,Credit,688.06,Regular
+Dining,UPI,Credit,5480.48,Regular
+Utilities,UPI,Debit,1830.9,Premium
+Utilities,Debit Card,Credit,2177.16,Regular
+Entertainment,UPI,Debit,288.51,Regular
+Travel,Net Banking,Debit,910.42,Regular
+Dining,Cash,Debit,2755.61,Regular
+Utilities,Net Banking,Debit,2252.39,Regular
+Utilities,Net Banking,Debit,600.46,Budget
+Utilities,Cash,Credit,1459.68,Regular
+Entertainment,UPI,Credit,829.5,Regular
+Dining,Cash,Debit,1650.21,Budget
+Shopping,Debit Card,Debit,3562.44,Regular
+Utilities,Credit Card,Debit,414.54,Budget
+Healthcare,UPI,Credit,808.23,Budget
+Travel,Credit Card,Credit,656.97,Premium
+Entertainment,Credit Card,Credit,1635.58,Regular
+Utilities,Cash,Debit,2015.45,Regular
+Groceries,Net Banking,Debit,1042.34,Budget
+Groceries,Debit Card,Debit,1901.96,Regular
+Utilities,Cash,Debit,2226.13,Premium
+Travel,Credit Card,Debit,1260.35,Regular
+Shopping,Debit Card,Debit,2185.45,Premium
+Groceries,Net Banking,Credit,532.09,Budget
+Shopping,Debit Card,Debit,983.58,Regular
+Entertainment,Net Banking,Debit,1949.5,Regular
+Groceries,Cash,Credit,2046.12,Budget
+Dining,Credit Card,Debit,582.49,Regular
+Shopping,Credit Card,Credit,1256.6,Regular
+Dining,Cash,Debit,281.62,Budget
+Groceries,UPI,Credit,540.51,Budget
+Groceries,UPI,Debit,619.83,Budget
+Utilities,UPI,Debit,2789.77,Premium
+Travel,UPI,Credit,1517.3,Regular
+Healthcare,Net Banking,Debit,2407.69,Premium
+Utilities,UPI,Debit,1101.16,Budget
+Entertainment,Credit Card,Debit,636.98,Regular
+Healthcare,Net Banking,Debit,1559.61,Regular
+Entertainment,Net Banking,Credit,4136.77,Premium
+Groceries,Credit Card,Debit,629.52,Regular
+Utilities,Debit Card,Debit,227.34,Regular
+Utilities,Net Banking,Debit,4923.09,Premium
+Dining,Net Banking,Credit,872.52,Premium
+Healthcare,Credit Card,Debit,517.98,Budget
+Healthcare,Credit Card,Debit,1351.17,Budget
+Utilities,UPI,Credit,1079.69,Premium
+Healthcare,UPI,Debit,2606.05,Regular
+Dining,Cash,Credit,454.59,Budget
+Groceries,UPI,Debit,676.38,Regular
+Healthcare,Cash,Debit,471.71,Regular
+Groceries,Debit Card,Debit,763.75,Regular
+Dining,UPI,Credit,2042.03,Regular
+Shopping,Credit Card,Debit,1554.17,Premium
+Entertainment,UPI,Debit,2742.75,Regular
+Entertainment,Credit Card,Debit,2483.98,Premium
+Travel,UPI,Debit,2653.45,Premium
+Healthcare,Debit Card,Debit,657.61,Regular
+Entertainment,Credit Card,Debit,1814.32,Budget
+Dining,Credit Card,Debit,1386.81,Budget
+Travel,UPI,Debit,2265.87,Regular
+Groceries,Cash,Debit,1181.26,Regular
+Dining,Credit Card,Debit,414.78,Regular
+Shopping,UPI,Debit,1534.25,Regular
+Dining,Debit Card,Debit,1980.62,Regular
+Entertainment,Cash,Debit,1994.78,Regular
+Entertainment,UPI,Debit,1806.84,Regular
+Utilities,Cash,Debit,1051.66,Budget
+Travel,Debit Card,Debit,452.63,Budget
+Travel,Credit Card,Debit,1417.35,Premium
+Entertainment,UPI,Credit,476.3,Regular
+Travel,Net Banking,Debit,4976.27,Premium
+Utilities,Cash,Credit,4583.48,Regular
+Dining,Cash,Debit,7555.18,Regular
+Shopping,Cash,Credit,2906.36,Premium
+Dining,Net Banking,Debit,1053.61,Budget
+Groceries,Debit Card,Debit,1219.11,Regular
+Healthcare,UPI,Debit,957.53,Budget
+Groceries,Credit Card,Credit,1075.73,Premium
+Healthcare,UPI,Debit,2159.36,Premium
+Groceries,Debit Card,Debit,681.43,Regular
+Travel,Credit Card,Debit,1942.75,Premium
+Groceries,Debit Card,Credit,734.4,Regular
+Groceries,UPI,Debit,1188.82,Budget
+Dining,Debit Card,Debit,3890.39,Premium
+Shopping,Cash,Debit,3090.15,Premium
+Groceries,UPI,Credit,790.3,Regular
+Healthcare,Cash,Debit,444.06,Regular
+Utilities,Net Banking,Debit,2178.47,Regular
+Utilities,Credit Card,Credit,1374.35,Regular
+Utilities,Debit Card,Debit,129.67,Budget
+Travel,Net Banking,Debit,2744.56,Premium
+Entertainment,UPI,Debit,1765.59,Regular
+Utilities,Debit Card,Debit,307.44,Regular
+Entertainment,UPI,Debit,1203.61,Budget
+Groceries,Cash,Debit,360.78,Regular
+Utilities,Debit Card,Credit,717.18,Regular
+Dining,Credit Card,Credit,654.0,Premium
+Shopping,Debit Card,Debit,1173.45,Premium
+Utilities,Cash,Debit,806.28,Premium
+Utilities,Net Banking,Debit,2752.63,Regular
+Shopping,Cash,Credit,1131.28,Regular
+Dining,Cash,Debit,946.32,Regular
+Shopping,Credit Card,Debit,5277.83,Premium
+Healthcare,Debit Card,Debit,1698.17,Budget
+Shopping,Credit Card,Debit,605.8,Budget
+Healthcare,Credit Card,Debit,3046.38,Premium
+Utilities,Cash,Credit,1518.12,Premium
+Utilities,Cash,Debit,2287.45,Premium
+Utilities,Credit Card,Credit,318.04,Budget
+Entertainment,Net Banking,Debit,3375.49,Premium
+Shopping,UPI,Credit,3011.01,Regular
+Shopping,Credit Card,Credit,2658.75,Regular
+Shopping,Cash,Credit,854.08,Budget
+Entertainment,Cash,Debit,191.67,Regular
+Travel,UPI,Debit,810.63,Regular
+Entertainment,Net Banking,Debit,761.74,Budget
+Healthcare,Debit Card,Debit,705.33,Premium
+Entertainment,Net Banking,Debit,195.22,Budget
+Entertainment,UPI,Credit,6443.36,Premium
+Travel,Cash,Credit,2448.45,Regular
+Healthcare,Credit Card,Debit,1188.12,Budget
+Healthcare,Credit Card,Debit,2254.81,Regular
+Groceries,Cash,Credit,462.57,Regular
+Utilities,Debit Card,Credit,632.34,Regular
+Entertainment,Debit Card,Debit,1618.23,Regular
+Utilities,Net Banking,Debit,1712.5,Regular
+Travel,Credit Card,Credit,368.65,Regular
+Entertainment,UPI,Debit,1534.62,Regular
+Groceries,Debit Card,Debit,1287.66,Regular
+Travel,Credit Card,Credit,2600.75,Regular
+Groceries,Cash,Credit,1718.66,Regular
+Entertainment,Credit Card,Credit,3854.59,Regular
+Groceries,Credit Card,Credit,1825.77,Premium
+Groceries,Net Banking,Debit,296.12,Budget
+Travel,Cash,Debit,3787.1,Regular
+Shopping,Credit Card,Debit,3212.08,Premium
+Shopping,Net Banking,Debit,1293.53,Regular
+Groceries,UPI,Debit,392.43,Budget
+Groceries,Cash,Debit,1843.16,Premium
+Utilities,Credit Card,Debit,1764.86,Premium
+Dining,Cash,Credit,850.75,Premium
+Shopping,Net Banking,Debit,226.39,Premium
+Shopping,Cash,Debit,576.99,Budget
+Utilities,Debit Card,Debit,1377.06,Budget
+Entertainment,Cash,Debit,5733.69,Premium
+Groceries,Net Banking,Credit,2670.65,Regular
+Entertainment,Credit Card,Debit,4999.2,Premium
+Groceries,Cash,Debit,528.21,Regular
+Healthcare,Net Banking,Credit,984.46,Budget
+Entertainment,Debit Card,Debit,1991.19,Regular
+Shopping,UPI,Debit,3747.89,Premium
+Travel,Debit Card,Debit,1271.4,Regular
+Travel,UPI,Debit,897.63,Budget
+Travel,Cash,Debit,2616.68,Regular
+Shopping,Cash,Debit,3492.64,Premium
+Groceries,Debit Card,Debit,3961.11,Premium
+Groceries,Cash,Debit,925.41,Regular
+Utilities,UPI,Debit,2120.26,Regular
+Utilities,Net Banking,Debit,888.75,Budget
+Travel,Net Banking,Credit,1462.94,Budget
+Shopping,UPI,Debit,452.5,Budget
+Dining,UPI,Debit,1381.77,Budget
+Entertainment,UPI,Debit,1863.64,Premium
+Utilities,Cash,Debit,2310.3,Regular
+Shopping,Debit Card,Debit,1648.57,Regular
+Entertainment,Debit Card,Credit,1400.68,Regular
+Travel,Debit Card,Credit,648.78,Budget
+Travel,Credit Card,Debit,1297.84,Regular
+Shopping,Debit Card,Debit,578.1,Budget
+Shopping,Credit Card,Credit,1063.34,Regular
+Travel,Credit Card,Debit,1903.5,Regular
+Utilities,Net Banking,Debit,259.67,Regular
+Utilities,Credit Card,Debit,4119.2,Premium
+Utilities,UPI,Debit,4167.39,Premium
+Entertainment,Net Banking,Credit,1107.46,Regular
+Dining,Net Banking,Debit,2745.52,Premium
+Entertainment,UPI,Credit,355.66,Budget
+Dining,Credit Card,Debit,3269.26,Premium
+Shopping,Cash,Debit,1192.14,Premium
+Healthcare,Cash,Debit,22.01,Budget
+Groceries,Net Banking,Debit,5586.58,Premium
+Shopping,Credit Card,Debit,319.92,Budget
+Groceries,Credit Card,Debit,1276.38,Regular
+Utilities,Debit Card,Debit,2823.34,Premium
+Entertainment,Credit Card,Credit,1900.49,Regular
+Entertainment,Cash,Debit,1364.56,Regular
+Entertainment,Debit Card,Debit,1002.91,Budget
+Groceries,Debit Card,Debit,652.07,Budget
+Shopping,Cash,Debit,315.6,Regular
+Groceries,Cash,Credit,1324.8,Regular
+Utilities,Debit Card,Credit,2088.9,Regular
+Dining,Debit Card,Credit,564.38,Regular
+Healthcare,UPI,Debit,948.28,Budget
+Shopping,Net Banking,Debit,4366.3,Regular
+Groceries,Cash,Debit,1258.88,Regular
+Healthcare,Cash,Debit,1309.29,Regular
+Dining,Cash,Debit,172.79,Budget

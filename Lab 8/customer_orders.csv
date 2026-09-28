@@ -1,0 +1,22 @@
+OrderID,CustomerName,Product,Quantity,PricePerUnit
+101,John Doe,Laptop,1,1200.5
+102,Jane Smith,Phone,2,699.99
+103,,TV,1,45000
+104,Mike Brown,Tablet,1,20000
+105,Alice Johnson,Speaker,3,1500
+105,Alice Johnson,Speaker,3,1500
+106,,Smartwatch,-1,2999
+107,David Clark,Headphones,2,5000
+108,Eve Black,Monitor,1,
+109,Frank White,Keyboard,1,200
+110,Emily Green,Mouse,,50
+111,Tom Lee,Smartwatch,2,2500
+112,Nancy Moore,Earphones,1,299.99
+113,John Snow,Laptop,3,75000
+114,Emma Stone,Phone,1,999.99
+115,Daniel Craig,Tablet,4,
+116,Sophia Turner,Speaker,2,1999
+117,Michael Scott,,1,3500
+118,Jim Halpert,Headphones,2,1500
+119,Pam Beesly,Keyboard,3,1200
+120,Dwight Schrute,Mouse,2,399.99

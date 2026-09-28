@@ -3,16 +3,20 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Machine%20Learning-Fundamentals-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
+
 <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
 <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+
 <img src="https://img.shields.io/badge/pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+
 <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
 
-### 📚 College Machine Learning Coursework & Practical Labs
+<br><br>
 
-**Regression • Classification • EDA • Data Visualization • Model Building**
+### 📚 College Coursework • Practical Labs • Machine Learning Experiments
 
-🎓 **Academic Learning Repository**
+**Regression • Classification • Clustering • EDA • Data Visualization • Model Building**
 
 </div>
 
@@ -22,52 +26,104 @@
 
 Welcome to my **Machine Learning Fundamentals** repository! 🚀
 
-This repository contains my **college machine learning labs, Jupyter notebooks, datasets, practical assignments, and model implementations**.
+This repository contains my **college coursework, practical laboratory exercises, Jupyter notebooks, datasets, assignments, and machine learning experiments** developed while learning the fundamentals of Machine Learning with Python.
 
-The work follows a practical progression from **data exploration and visualization** to supervised learning techniques such as:
+The repository follows a practical learning approach:
 
-**📈 Linear Regression → 🎯 Logistic Regression → 👥 KNN → 🌳 Decision Trees**
+```text
+Data
+ ↓
+Data Inspection
+ ↓
+Data Cleaning & Preparation
+ ↓
+Exploratory Data Analysis
+ ↓
+Visualization
+ ↓
+Feature Preparation
+ ↓
+Model Building
+ ↓
+Prediction / Clustering
+ ↓
+Evaluation & Interpretation
+```
+
+The work covers both **supervised** and **unsupervised learning**, along with supporting topics such as data analysis, visualization, preprocessing, and business-oriented analytics.
 
 > 🎓 **Academic Repository**
-> These projects are maintained for coursework, practical assignments, experimentation, and documenting my machine-learning learning journey.
+>
+> This repository is primarily maintained for coursework, practical assignments, experimentation, revision, and documenting my learning journey in Machine Learning.
+
+---
+
+# 🧭 Table of Contents
+
+* [About This Repository](#-about-this-repository)
+* [Learning Roadmap](#-learning-roadmap)
+* [Labs Overview](#-labs-overview)
+* [Machine Learning Topics](#-machine-learning-topics)
+* [Practical Notebooks](#-practical-notebooks)
+* [Datasets](#-datasets)
+* [Tools & Technologies](#-tools--technologies)
+* [Repository Structure](#-repository-structure)
+* [How to Run](#-how-to-run)
+* [Learning Outcomes](#-learning-outcomes)
+* [Future Learning](#-future-learning)
+* [Academic Context](#-academic-context)
+* [Author](#-author)
 
 ---
 
 # 🧭 Learning Roadmap
 
+My learning progression in this repository can be summarized as:
+
 ```text
-Raw Data
-    ↓
-Data Inspection
-    ↓
-Data Cleaning & Quality Checks
-    ↓
-Exploratory Data Analysis
-    ↓
-Data Visualization
-    ↓
-Feature Preparation
-    ↓
-Model Training
-    ↓
-Prediction / Classification
-    ↓
-Evaluation & Interpretation
+               MACHINE LEARNING
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+     SUPERVISED             UNSUPERVISED
+          │                       │
+     ┌────┴────┐             ┌────┴────────┐
+     │         │             │             │
+ Regression Classification  K-Means   Hierarchical
+     │         │             Clustering  Clustering
+     │         │
+     │    ┌────┼────┬────┬────┐
+     │    │    │    │    │    │
+   Linear Logistic KNN Decision Random   SVM
+ Regression Regression     Tree   Forest
 ```
+
+Alongside these algorithms, the repository also includes:
+
+* Data inspection
+* Exploratory Data Analysis
+* Data quality assessment
+* Data visualization
+* Dataset preparation
+* Data manipulation with pandas
+* Practical business and workforce analytics
+* Housing price prediction
+* Customer order data analysis
 
 ---
 
-# 🚀 Labs at a Glance
+# 🚀 Labs Overview
 
-|   Lab  | Topic                                            | Dataset                         |
-| :----: | :----------------------------------------------- | :------------------------------ |
-| **01** | 📈 Simple Linear Regression                      | House Prices                    |
-| **02** | 📊 Multiple Linear Regression                    | House Prices – Multiple Factors |
-| **03** | 🔎 Exploratory Data Analysis & Data Quality      | HR Analytics                    |
-| **04** | 📉 Data Visualization & Insight Generation       | Finance Analytics               |
-| **05** | 🎯 Logistic Regression for Binary Classification | Social Network Ads              |
-| **06** | 👥 K-Nearest Neighbors Classification            | Iris                            |
-| **07** | 🌳 Decision Tree Classification                  | Iris                            |
+|   Lab  | Topic                                       | Main Focus                      | Dataset            |
+| :----: | :------------------------------------------ | :------------------------------ | :----------------- |
+| **01** | 📈 Simple Linear Regression                 | Regression & prediction         | House Prices       |
+| **02** | 📊 Multiple Linear Regression               | Multi-feature regression        | House Prices       |
+| **03** | 🔎 Exploratory Data Analysis & Data Quality | EDA & data preparation          | HR Analytics       |
+| **04** | 📉 Data Visualization & Insight Generation  | Visualization & analysis        | Finance Analytics  |
+| **05** | 🎯 Logistic Regression                      | Binary classification           | Social Network Ads |
+| **06** | 👥 K-Nearest Neighbors                      | Classification                  | Iris               |
+| **07** | 🌳 Decision Tree Classification             | Classification & decision rules | Iris               |
+| **08** | 🧹 Customer Order Data Analysis             | Data manipulation & preparation | Customer Orders    |
 
 ---
 
@@ -75,14 +131,22 @@ Evaluation & Interpretation
 
 ### 🎯 Objective
 
-Implementation of **Simple Linear Regression using Python**.
+Implement **Simple Linear Regression using Python** and understand the relationship between variables used for numerical prediction.
 
-### 📂 Included Files
+### 📂 Files
 
 * 📓 `Lab 1 Implementation of Simple Linear Regression Using Python.ipynb`
 * 🗃️ `house_prices.csv`
 
-➡️ **[Open Lab 1](Lab%201%20Implementation%20of%20Simple%20Linear%20Regression%20Using%20Python)**
+### 🧠 Concepts
+
+* Linear relationship
+* Independent and dependent variables
+* Model training
+* Prediction
+* Regression fundamentals
+
+➡️ [Open Lab 1](Lab%201%20Implementation%20of%20Simple%20Linear%20Regression%20Using%20Python)
 
 ---
 
@@ -90,14 +154,22 @@ Implementation of **Simple Linear Regression using Python**.
 
 ### 🎯 Objective
 
-Implementation of **Multiple Linear Regression using Python** using multiple factors for prediction.
+Implement **Multiple Linear Regression using Python** using multiple input variables to perform numerical prediction.
 
-### 📂 Included Files
+### 📂 Files
 
 * 📓 `Lab 2 Implementation of Multiple Linear Regression Using Python.ipynb`
 * 🗃️ `house_prices_multiple_factor.csv`
 
-➡️ **[Open Lab 2](Lab%202%20Implementation%20of%20Multiple%20Linear%20Regression%20Using%20Python)**
+### 🧠 Concepts
+
+* Multiple predictors
+* Feature relationships
+* Regression modeling
+* Numerical prediction
+* Model interpretation
+
+➡️ [Open Lab 2](Lab%202%20Implementation%20of%20Multiple%20Linear%20Regression%20Using%20Python)
 
 ---
 
@@ -105,9 +177,9 @@ Implementation of **Multiple Linear Regression using Python** using multiple fac
 
 ### 🎯 Objective
 
-Explore a dataset, inspect its structure, assess its quality, and prepare it for further analysis.
+Explore a dataset, understand its structure, inspect its quality, and prepare it for further analytical tasks.
 
-### 📂 Included Files
+### 📂 Files
 
 * 📓 `Lab 3 Exploratory Data Analysis and Data Quality Assessment Using Python.ipynb`
 * 🗃️ `hr_analytics.csv`
@@ -115,12 +187,14 @@ Explore a dataset, inspect its structure, assess its quality, and prepare it for
 ### 🔍 Focus Areas
 
 * Dataset inspection
-* Exploratory analysis
-* Missing-value checks
-* Data quality assessment
+* Data types
+* Missing values
+* Data quality checks
+* Descriptive analysis
 * Data preparation
+* Exploratory analysis
 
-➡️ **[Open Lab 3](Lab%203%20Exploratory%20Data%20Analysis%20and%20Data%20Quality%20Assessment%20Using%20Python)**
+➡️ [Open Lab 3](Lab%203%20Exploratory%20Data%20Analysis%20and%20Data%20Quality%20Assessment%20Using%20Python)
 
 ---
 
@@ -128,9 +202,9 @@ Explore a dataset, inspect its structure, assess its quality, and prepare it for
 
 ### 🎯 Objective
 
-Use Python visualization techniques to explore a finance dataset and communicate useful patterns and insights.
+Use Python to visualize data, identify patterns, compare variables, and communicate analytical insights.
 
-### 📂 Included Files
+### 📂 Files
 
 * 📓 `Lab 4 Data Visualization and Insight Generation Using Python.ipynb`
 * 🗃️ `Finance_Analytics_Dataset.csv`
@@ -140,9 +214,11 @@ Use Python visualization techniques to explore a finance dataset and communicate
 * Data visualization
 * Trend analysis
 * Variable comparison
+* Pattern identification
 * Insight generation
+* Analytical storytelling
 
-➡️ **[Open Lab 4](Lab%204%20Data%20Visualization%20and%20Insight%20Generation%20Using%20Python)**
+➡️ [Open Lab 4](Lab%204%20Data%20Visualization%20and%20Insight%20Generation%20Using%20Python)
 
 ---
 
@@ -150,18 +226,22 @@ Use Python visualization techniques to explore a finance dataset and communicate
 
 ### 🎯 Objective
 
-Implementation of **Logistic Regression for binary classification using Python**.
+Implement **Logistic Regression for binary classification using Python**.
 
-### 📂 Included Files
+### 📂 Files
 
 * 📓 `Lab 5 Implementation of Logistic Regression for Binary Classification Using Python.ipynb`
 * 🗃️ `Social_Network_Ads.csv`
 
-### 🧠 Core Concept
+### 🧠 Concepts
 
-Logistic Regression is used for classification problems where the target represents a binary outcome.
+* Binary classification
+* Classification boundaries
+* Feature-based prediction
+* Model training
+* Classification workflow
 
-➡️ **[Open Lab 5](Lab%205%20Implementation%20of%20Logistic%20Regression%20for%20Binary%20Classification%20Using%20Python)**
+➡️ [Open Lab 5](Lab%205%20Implementation%20of%20Logistic%20Regression%20for%20Binary%20Classification%20Using%20Python)
 
 ---
 
@@ -169,18 +249,22 @@ Logistic Regression is used for classification problems where the target represe
 
 ### 🎯 Objective
 
-Implementation of classification using the **K-Nearest Neighbors (KNN)** algorithm.
+Implement **K-Nearest Neighbors (KNN)** classification using Python and understand prediction based on neighboring observations.
 
-### 📂 Included Files
+### 📂 Files
 
 * 📓 `Lab 6 Classification Using the K-Nearest Neighbors Algorithm.ipynb`
 * 🗃️ `iris_data.csv`
 
-### 🧠 Core Concept
+### 🧠 Concepts
 
-KNN classifies observations based on the nearest examples in the dataset.
+* KNN classification
+* Distance-based learning
+* Nearest neighbors
+* Feature-based classification
+* Classification workflow
 
-➡️ **[Open Lab 6](Lab%206%20Classification%20Using%20the%20K-Nearest%20Neighbors%20Algorithm)**
+➡️ [Open Lab 6](Lab%206%20Classification%20Using%20the%20K-Nearest%20Neighbors%20Algorithm)
 
 ---
 
@@ -190,86 +274,225 @@ KNN classifies observations based on the nearest examples in the dataset.
 
 Build a **Decision Tree Classification Model using Python**.
 
-### 📂 Included Files
+### 📂 Files
 
 * 📓 `Lab 7 Building a Decision Tree Classification Model Using Python.ipynb`
 * 🗃️ `iris_data.csv`
 
-### 🌱 Core Concept
+### 🧠 Concepts
 
-A decision tree uses feature-based splits to form a sequence of decisions for classification.
+* Decision trees
+* Feature-based splits
+* Classification rules
+* Tree-based learning
+* Model interpretation
 
-➡️ **[Open Lab 7](Lab%207%20Building%20a%20Decision%20Tree%20Classification%20Model%20Using%20Python)**
-
----
-
-# 🧪 Additional Practical Notebooks
-
-The repository also contains additional standalone notebooks and code-submission work.
-
-| Notebook                                                                    | Area                                      |
-| :-------------------------------------------------------------------------- | :---------------------------------------- |
-| `Business Data Analysis and Visualization - Code Submission - Task 2.ipynb` | 📊 Business Data Analysis & Visualization |
-| `Workforce Analytics System - Code Submission - Task 1.ipynb`               | 👥 Workforce Analytics                    |
-| `Housing Price Prediction - Code Submission - Task 3.ipynb`                 | 🏠 Housing Price Prediction               |
-| `KNN_MLF.ipynb`                                                             | 👥 KNN Practice                           |
-| `Logistic regression (1).ipynb`                                             | 🎯 Logistic Regression Practice           |
-| `multiple_Lr (1).ipynb`                                                     | 📊 Multiple Linear Regression Practice    |
+➡️ [Open Lab 7](Lab%207%20Building%20a%20Decision%20Tree%20Classification%20Model%20Using%20Python)
 
 ---
 
-# 🧩 Machine Learning Concepts Covered
+# 🧹 Lab 08 — Customer Order Data Analysis
+
+### 🎯 Objective
+
+Work with customer order data using Python and pandas for data inspection, transformation, and analytical preparation.
+
+### 📂 Files
+
+* 📓 `customer_orders.ipynb`
+* 🗃️ `customer_orders.csv`
+
+### 🔍 Focus Areas
+
+* Data loading
+* Data inspection
+* Data cleaning
+* Data manipulation
+* Column operations
+* Preparing data for analysis
+
+➡️ [Open Lab 8](Lab%208)
+
+---
+
+# 🤖 Machine Learning Topics
 
 ## 📈 Regression
 
+Regression techniques included in the repository:
+
 * Simple Linear Regression
 * Multiple Linear Regression
-* Numerical prediction
+* Housing Price Prediction
+
+### Typical Workflow
+
+```text
+Input Features
+     ↓
+Prepare Data
+     ↓
+Train Regression Model
+     ↓
+Generate Predictions
+     ↓
+Analyze Results
+```
+
+---
 
 ## 🎯 Classification
 
+Classification techniques included in the repository:
+
 * Logistic Regression
 * K-Nearest Neighbors
-* Decision Tree Classification
+* Decision Tree
+* Random Forest
+* Support Vector Machine
 
-## 🔎 Data Analysis
+### Typical Workflow
 
-* Data inspection
-* Exploratory Data Analysis
-* Data quality assessment
-* Feature understanding
-* Dataset preparation
+```text
+Dataset
+   ↓
+Feature Preparation
+   ↓
+Train Classifier
+   ↓
+Predict Classes
+   ↓
+Evaluate / Interpret
+```
+
+---
+
+## 🔵 Clustering
+
+Unsupervised learning experiments include:
+
+* K-Means Clustering
+* Hierarchical Clustering
+
+### Typical Workflow
+
+```text
+Dataset
+   ↓
+Select Features
+   ↓
+Choose Clustering Method
+   ↓
+Create Groups
+   ↓
+Analyze Cluster Patterns
+```
+
+---
+
+## 🔎 Exploratory Data Analysis
+
+EDA work includes:
+
+* Understanding dataset structure
+* Inspecting columns
+* Checking data types
+* Identifying missing values
+* Reviewing distributions
+* Understanding relationships between variables
+* Preparing data for modeling
+
+---
 
 ## 📊 Data Visualization
 
-* Trend identification
-* Variable comparison
-* Analytical visualization
-* Insight generation
+Visualization work is used to:
+
+* Understand patterns
+* Compare variables
+* Identify trends
+* Communicate findings
+* Support data-driven interpretation
+
+---
+
+# 🧪 Practical Notebooks
+
+The repository also contains standalone notebooks covering additional Machine Learning and data-analysis exercises.
+
+| Notebook                                                                    | Focus                            |
+| :-------------------------------------------------------------------------- | :------------------------------- |
+| `Decision Tree (1).ipynb`                                                   | 🌳 Decision Tree                 |
+| `Hierarchical Clustering- Task 11.ipynb`                                    | 🔵 Hierarchical Clustering       |
+| `KNN_MLF.ipynb`                                                             | 👥 K-Nearest Neighbors           |
+| `K_Means.ipynb`                                                             | 🔵 K-Means Clustering            |
+| `Logistic regression (1).ipynb`                                             | 🎯 Logistic Regression           |
+| `Randomforest.ipynb`                                                        | 🌲 Random Forest                 |
+| `SVM (1).ipynb`                                                             | ⚡ Support Vector Machine         |
+| `multiple_Lr (1).ipynb`                                                     | 📊 Multiple Linear Regression    |
+| `Housing Price Prediction - Code Submission - Task 3.ipynb`                 | 🏠 Housing Price Prediction      |
+| `Business Data Analysis and Visualization - Code Submission - Task 2.ipynb` | 📊 Business Data Analysis        |
+| `Workforce Analytics System - Code Submission - Task 1.ipynb`               | 👥 Workforce Analytics           |
+| `pandas.ipynb`                                                              | 🐼 Data Manipulation with pandas |
+| `customer_orders.ipynb`                                                     | 🛒 Customer Order Analysis       |
+
+---
+
+# 🧩 Algorithms Covered
+
+| Category                 | Algorithms / Concepts                                        |
+| :----------------------- | :----------------------------------------------------------- |
+| 📈 **Regression**        | Simple Linear Regression, Multiple Linear Regression         |
+| 🎯 **Classification**    | Logistic Regression, KNN, Decision Tree, Random Forest, SVM  |
+| 🔵 **Clustering**        | K-Means, Hierarchical Clustering                             |
+| 🔎 **Data Analysis**     | EDA, Data Quality Assessment, Data Preparation               |
+| 📊 **Visualization**     | Analytical Visualization, Trend Analysis, Insight Generation |
+| 🐼 **Data Manipulation** | pandas-based data loading and transformation                 |
+
+---
+
+# 🗃️ Datasets
+
+The repository contains datasets used for different practical exercises.
+
+| Dataset                            | Used For                      |
+| :--------------------------------- | :---------------------------- |
+| `house_prices.csv`                 | 📈 Simple Linear Regression   |
+| `house_prices_multiple_factor.csv` | 📊 Multiple Linear Regression |
+| `hr_analytics.csv`                 | 👥 HR Analytics & EDA         |
+| `Finance_Analytics_Dataset.csv`    | 💰 Finance Data Visualization |
+| `Social_Network_Ads.csv`           | 🎯 Logistic Regression        |
+| `iris_data.csv`                    | 🌸 KNN & Decision Tree        |
+| `customer_orders.csv`              | 🛒 Customer Order Analysis    |
 
 ---
 
 # 🛠️ Tools & Technologies
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
+
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
 
-</p>
+</div>
 
-| Tool / Library          | Purpose                                       |
-| :---------------------- | :-------------------------------------------- |
-| 🐍 **Python**           | Machine-learning implementation               |
-| 📓 **Jupyter Notebook** | Interactive experimentation and documentation |
-| 🐼 **pandas**           | Data loading, manipulation, and analysis      |
-| 🔢 **NumPy**            | Numerical operations                          |
-| 📊 **Matplotlib**       | Visualization                                 |
-| 🤖 **scikit-learn**     | Machine-learning algorithms and utilities     |
+| Tool / Library          | Purpose                                                |
+| :---------------------- | :----------------------------------------------------- |
+| 🐍 **Python**           | Programming and Machine Learning implementation        |
+| 📓 **Jupyter Notebook** | Interactive coding, experimentation, and documentation |
+| 🐼 **pandas**           | Data loading, cleaning, transformation, and analysis   |
+| 🔢 **NumPy**            | Numerical computation and array operations             |
+| 📊 **Matplotlib**       | Data visualization                                     |
+| 🤖 **scikit-learn**     | Machine Learning algorithms and utilities              |
 
 ---
 
@@ -279,39 +502,52 @@ The repository also contains additional standalone notebooks and code-submission
 Machine-Learning-Fundamentals/
 │
 ├── 📁 Lab 1 Implementation of Simple Linear Regression Using Python/
-│   ├── 📓 Simple Linear Regression Notebook
+│   ├── 📓 Lab 1 Implementation of Simple Linear Regression Using Python.ipynb
 │   └── 🗃️ house_prices.csv
 │
 ├── 📁 Lab 2 Implementation of Multiple Linear Regression Using Python/
-│   ├── 📓 Multiple Linear Regression Notebook
+│   ├── 📓 Lab 2 Implementation of Multiple Linear Regression Using Python.ipynb
 │   └── 🗃️ house_prices_multiple_factor.csv
 │
 ├── 📁 Lab 3 Exploratory Data Analysis and Data Quality Assessment Using Python/
-│   ├── 📓 EDA & Data Quality Notebook
+│   ├── 📓 Lab 3 Exploratory Data Analysis and Data Quality Assessment Using Python.ipynb
 │   └── 🗃️ hr_analytics.csv
 │
 ├── 📁 Lab 4 Data Visualization and Insight Generation Using Python/
-│   ├── 📓 Visualization Notebook
+│   ├── 📓 Lab 4 Data Visualization and Insight Generation Using Python.ipynb
 │   └── 🗃️ Finance_Analytics_Dataset.csv
 │
 ├── 📁 Lab 5 Implementation of Logistic Regression for Binary Classification Using Python/
-│   ├── 📓 Logistic Regression Notebook
+│   ├── 📓 Lab 5 Implementation of Logistic Regression for Binary Classification Using Python.ipynb
 │   └── 🗃️ Social_Network_Ads.csv
 │
 ├── 📁 Lab 6 Classification Using the K-Nearest Neighbors Algorithm/
-│   ├── 📓 KNN Notebook
+│   ├── 📓 Lab 6 Classification Using the K-Nearest Neighbors Algorithm.ipynb
 │   └── 🗃️ iris_data.csv
 │
 ├── 📁 Lab 7 Building a Decision Tree Classification Model Using Python/
-│   ├── 📓 Decision Tree Notebook
+│   ├── 📓 Lab 7 Building a Decision Tree Classification Model Using Python.ipynb
 │   └── 🗃️ iris_data.csv
 │
+├── 📁 Lab 8/
+│   ├── 📓 customer_orders.ipynb
+│   └── 🗃️ customer_orders.csv
+│
 ├── 📓 Business Data Analysis and Visualization - Code Submission - Task 2.ipynb
+├── 📓 Decision Tree (1).ipynb
+├── 📓 Hierarchical Clustering- Task 11.ipynb
 ├── 📓 Housing Price Prediction - Code Submission - Task 3.ipynb
 ├── 📓 KNN_MLF.ipynb
+├── 📓 K_Means.ipynb
 ├── 📓 Logistic regression (1).ipynb
 ├── 📓 multiple_Lr (1).ipynb
-└── 📓 Workforce Analytics System - Code Submission - Task 1.ipynb
+├── 📓 Randomforest.ipynb
+├── 📓 SVM (1).ipynb
+├── 📓 Workforce Analytics System - Code Submission - Task 1.ipynb
+├── 📓 customer_orders.ipynb
+├── 📓 pandas.ipynb
+│
+└── 📄 README.md
 ```
 
 ---
@@ -325,55 +561,142 @@ git clone https://github.com/vimalrao-27/Machine-Learning-Fundamentals.git
 cd Machine-Learning-Fundamentals
 ```
 
-## 2️⃣ Install Dependencies
+## 2️⃣ Install the Required Libraries
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn jupyter
 ```
 
-## 3️⃣ Start Jupyter Notebook
+## 3️⃣ Launch Jupyter Notebook
 
 ```bash
 jupyter notebook
 ```
 
-## 4️⃣ Open a Lab
+You can also use:
 
-Choose any lab notebook and run the cells in sequence.
+```bash
+jupyter lab
+```
 
-> 💡 Keep the corresponding CSV dataset in the same project folder as the notebook.
+## 4️⃣ Open a Notebook
 
----
+Choose any `.ipynb` file and run the cells in sequence.
 
-# 🧠 Learning Progression
-
-| Stage | Skill                                   |
-| :---: | :-------------------------------------- |
-|   01  | 🗃️ Load and inspect data               |
-|   02  | 🧹 Assess and prepare data              |
-|   03  | 🔎 Explore datasets                     |
-|   04  | 📊 Visualize patterns                   |
-|   05  | 📈 Build regression models              |
-|   06  | 🎯 Build classification models          |
-|   07  | 🧠 Interpret machine-learning workflows |
+> 💡 Keep the relevant CSV dataset in the expected folder when running the notebooks.
 
 ---
 
-# 🎯 Learning Outcomes
+# 🧠 Learning Outcomes
 
-Through these labs and practical assignments, I am developing experience in:
+Through these practical exercises, I am developing experience in:
 
-* 🐍 Writing machine-learning programs in Python
+* 🐍 Python programming for Machine Learning
 * 🗃️ Working with structured datasets
-* 🔎 Performing exploratory data analysis
-* 🧹 Checking data quality
-* 📊 Creating data visualizations
-* 📈 Implementing regression algorithms
-* 🎯 Implementing classification algorithms
-* 🧠 Understanding supervised learning workflows
-* 📓 Working with Jupyter Notebooks
-* 🧪 Experimenting with multiple datasets and algorithms
-* 🗂️ Organizing academic ML work using GitHub
+* 🧹 Data cleaning and preparation
+* 🔎 Exploratory Data Analysis
+* 📊 Data visualization
+* 📈 Regression modeling
+* 🎯 Classification algorithms
+* 🔵 Unsupervised clustering
+* 🧠 Understanding Machine Learning workflows
+* 📓 Jupyter Notebook development
+* 🐼 pandas-based data manipulation
+* 🤖 scikit-learn model implementation
+* 🧪 Experimenting with different datasets and algorithms
+* 🗂️ Organizing and documenting academic work with GitHub
+
+---
+
+# 📚 Learning Journey
+
+This repository represents a progression from basic data analysis to broader Machine Learning concepts.
+
+```text
+                    START
+                      │
+                      ▼
+              🐍 Python Basics
+                      │
+                      ▼
+             🐼 Data Manipulation
+                      │
+                      ▼
+             🔎 Exploratory Data
+                Analysis
+                      │
+                      ▼
+             📊 Visualization
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+     📈 Regression          🎯 Classification
+          │                       │
+          │               ┌───────┼────────┐
+          │               ▼       ▼        ▼
+          │              KNN    Trees      SVM
+          │                       │
+          │                   Random Forest
+          │
+          └──────────────┬───────────────┘
+                         ▼
+                  🔵 Clustering
+                     /       \
+                  K-Means   Hierarchical
+                         │
+                         ▼
+                🚀 Machine Learning
+                   Fundamentals
+```
+
+---
+
+# 🔬 Practical Approach
+
+The repository focuses on learning through implementation rather than only theory.
+
+Each practical exercise generally follows this pattern:
+
+```text
+1. Load the Dataset
+        ↓
+2. Inspect the Data
+        ↓
+3. Clean / Prepare the Data
+        ↓
+4. Explore the Dataset
+        ↓
+5. Visualize Important Patterns
+        ↓
+6. Select Features
+        ↓
+7. Build the Model
+        ↓
+8. Generate Predictions / Clusters
+        ↓
+9. Analyze the Results
+```
+
+This approach helps connect **Machine Learning concepts with real code and datasets**.
+
+---
+
+# 🎯 Future Learning
+
+As my Machine Learning journey continues, I plan to explore additional topics such as:
+
+* Feature Engineering
+* Model Evaluation
+* Hyperparameter Tuning
+* Cross-Validation
+* Ensemble Learning
+* Dimensionality Reduction
+* Neural Networks
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
+* Explainable AI
+* End-to-End Machine Learning Projects
 
 ---
 
@@ -381,7 +704,11 @@ Through these labs and practical assignments, I am developing experience in:
 
 This repository is maintained as part of my **Machine Learning Fundamentals coursework and practical learning**.
 
-The projects demonstrate hands-on implementation of core machine-learning concepts through Python notebooks, datasets, analysis, visualization, and model-building exercises.
+The work brings together:
+
+**Theory → Coding → Data → Visualization → Algorithms → Experimentation**
+
+It serves as both an **academic submission repository** and a personal record of my progress while learning Machine Learning with Python.
 
 ---
 
@@ -391,13 +718,38 @@ The projects demonstrate hands-on implementation of core machine-learning concep
 
 ## **N.R. Vimal Kumar Rao**
 
-**BCA Student • Alliance University**
+### BCA Student • Alliance University
+
+Machine Learning • Python • Data Analytics • AI/ML
+
+<br>
 
 <a href="https://github.com/vimalrao-27">
-  <img src="https://img.shields.io/badge/GitHub-vimalrao--27-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-vimalrao--27-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/nrvimalrao/">
+<img src="https://img.shields.io/badge/LinkedIn-N.R.%20Vimal%20Kumar%20Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
+
+---
+
+# ⭐ Repository Highlights
+
+```text
+📈 Regression
+🎯 Classification
+🔵 Clustering
+🔎 Exploratory Data Analysis
+📊 Data Visualization
+🐼 Data Manipulation
+📓 Jupyter Notebooks
+🗃️ Practical Datasets
+🧪 Machine Learning Experiments
+🎓 Academic Coursework
+```
 
 ---
 
@@ -413,7 +765,7 @@ The projects demonstrate hands-on implementation of core machine-learning concep
 
 <br>
 
-⭐ **Thanks for visiting my Machine Learning repository!**
+⭐ **Thanks for visiting my Machine Learning Fundamentals repository!**
 
 **Learn • Experiment • Analyze • Improve 🚀**
 
